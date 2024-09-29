@@ -1,5 +1,5 @@
 # Team Flying Dragons
-# Laura Martin
+# Laura Martin Ybañez
 * I like programming
 * I love reading
 * I would like to improve my programming skills
