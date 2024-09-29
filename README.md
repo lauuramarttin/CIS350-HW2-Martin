@@ -1,10 +1,10 @@
 # CIS350-HW2-Martin
 # Laura Martin
-*I like programming
-*I love reading
-*I would like to improve my programming skills
+* I like programming
+* I love reading
+* I would like to improve my programming skills
 
-##Technical Background
+## Technical Background
 
 I have experience in the following programming languages:
 - Python
