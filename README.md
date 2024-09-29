@@ -10,5 +10,5 @@ I have experience in the following programming languages:
 - Python
 - C
 - Matlab
-  
-![Favorite meme](https://cdn.jokerry.com/2019/06/Best-Memes-1.jpeg)
+
+[Favorite meme](https://cdn.jokerry.com/2019/06/Best-Memes-1.jpeg)
