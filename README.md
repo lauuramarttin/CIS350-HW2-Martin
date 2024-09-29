@@ -1,4 +1,4 @@
-# Team Flying Dragons
+# CIS350-HW2-Martin
 # Laura Martin Ybañez
 * I like programming
 * I love reading
