@@ -1,6 +1,6 @@
 # Laura Martin Ybañez
-* I like programming
-* I love reading
+* I love spending the day in the mountains and camping at night.
+* I love reading and hanging out with my friends and my boyfriend.
 * I would like to improve my programming skills
 
 ## Technical Background
