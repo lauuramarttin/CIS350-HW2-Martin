@@ -1,4 +1,4 @@
-# CIS350-HW2-Martin
+# Team Flying Dragons
 # Laura Martin
 * I like programming
 * I love reading
